@@ -8,4 +8,4 @@ datasets
 joblib
 mlflow
 pytest
-tensorflow
+tensorflow==2.15.0
