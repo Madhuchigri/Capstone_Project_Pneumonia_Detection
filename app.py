@@ -12,7 +12,7 @@ from huggingface_hub import hf_hub_download
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.dirname(__file__))))
 from src.model import build_model
 
-MODEL_REPO = "Maddy2259/Pneumonia_detection_Model"
+MODEL_REPO = "Maddy2259/Pneumonia_Detection_Model"
 MODEL_FILENAME = "CNN_base_model.keras"
 
 CLASS_LABELS = {0: "Normal", 1: "Lung Opacity", 2: "No Lung Opacity / Not Normal"}
