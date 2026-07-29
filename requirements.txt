@@ -8,3 +8,4 @@ datasets
 joblib
 mlflow
 pytest
+tensorflow
