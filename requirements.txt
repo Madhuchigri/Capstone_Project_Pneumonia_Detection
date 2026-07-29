@@ -1,8 +1,9 @@
 streamlit>=1.30
-tensorflow>=2.18,<2.20
+tensorflow>=2.16.1
 numpy>=1.26,<2.0
 pandas>=2.0,<3.0
 pillow>=10.0
 pydicom>=2.4
 opencv-python-headless>=4.9
 huggingface_hub>=0.20
+keras>=3.0.0
