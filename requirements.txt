@@ -1,0 +1,7 @@
+streamlit
+tensorflow
+numpy
+pillow
+pydicom
+opencv-python
+huggingface_hub
