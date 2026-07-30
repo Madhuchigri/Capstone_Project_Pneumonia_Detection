@@ -8,8 +8,8 @@ import tensorflow as tf
 from PIL import Image
 from huggingface_hub import hf_hub_download
 
-MODEL_REPO = "Maddy2259/Pneumonia_Detection_Model"
-MODEL_FILENAME = "resnet50_finetuned.keras"  # ⚠️ CONFIRM this matches the exact file you upload to HF
+MODEL_REPO = "Maddy2259/Pneumonia_Detection_Model1"
+MODEL_FILENAME = "ResNet50_model_FineTuned2.keras"  # ⚠️ CONFIRM this matches the exact file you upload to HF
 IMG_SIZE = 224  # must match training: img_size_vgg = 224
 
 # ⚠️ IMPORTANT — VERIFY THIS BEFORE TRUSTING ANY PREDICTION.
