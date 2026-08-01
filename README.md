@@ -45,8 +45,8 @@ The model is loaded automatically from the Hugging Face Hub at app startup and c
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
-   cd <your-repo-name>
+   git clone https://github.com/Madhuchigri/Capstone_Project_Pneumonia_Detection.git
+   cd Capstone_Project_Pneumonia_Detection
    ```
 
 2. **Install dependencies** (Python 3.11 recommended)
